@@ -183,7 +183,8 @@ body {
 
 .process img {
   display: block;
-  width: 30em; }
+  width: 30em; 
+  margin-bottom: 6px; }
 
 .process p {
   width: 30em;
